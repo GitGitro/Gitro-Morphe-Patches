@@ -13,4 +13,14 @@ object Constants {
             )
         )
     )
+
+    val REVERSO_COMPATIBILITY = Compatibility(
+        name = "Reverso Context",
+        packageName = "com.softissimo.reverso.context",
+        targets = listOf(
+            AppTarget(
+                version = "16.5.0",
+            )
+        )
+    )
 }

@@ -33,4 +33,24 @@ object Constants {
             )
         )
     )
+
+    val COMPATIBILITY_RILLPHONE = Compatibility(
+        name = "RillPhone",
+        packageName = "dev.goodwy.rphone",
+        targets = listOf(
+            AppTarget(
+                version = "0.5.6"
+            )
+        )
+    )
+
+    val XAPKEXTRACTOR_COMPATIBILITY = Compatibility(
+        name = "XAPK Extractor",
+        packageName = "com.ytheekshana.apkextractor",
+        targets = listOf(
+            AppTarget(
+                version = "1.8.9",
+            )
+        )
+    )
 }

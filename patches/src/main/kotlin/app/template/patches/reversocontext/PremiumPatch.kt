@@ -2,7 +2,7 @@ package app.template.patches.reversocontext
 
 import app.morphe.patcher.extensions.InstructionExtensions.addInstructions
 import app.morphe.patcher.patch.bytecodePatch
-import app.template.patches.shared.Constants.REVERSO_COMPATIBILITY
+import app.template.patches.shared.Constants.COMPATIBILITY_REVERSO
 
 @Suppress("unused")
 val unlockPremiumPatch = bytecodePatch(
@@ -10,7 +10,7 @@ val unlockPremiumPatch = bytecodePatch(
     description = "Unlocks premium features.",
     default = true
 ) {
-    compatibleWith(REVERSO_COMPATIBILITY)
+    compatibleWith(COMPATIBILITY_REVERSO)
 
     execute {
         PremiumFingerprint.method.apply {

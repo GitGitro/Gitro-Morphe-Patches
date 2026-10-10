@@ -2,7 +2,7 @@ package app.template.patches.xapkextractor
 
 import app.morphe.patcher.extensions.InstructionExtensions.addInstructions
 import app.morphe.patcher.patch.bytecodePatch
-import app.template.patches.shared.Constants.XAPKEXTRACTOR_COMPATIBILITY
+import app.template.patches.shared.Constants.COMPATIBILITY_XAPKEXTRACTOR
 
 @Suppress("unused")
 val unlockSupporterPatch = bytecodePatch(
@@ -10,7 +10,7 @@ val unlockSupporterPatch = bytecodePatch(
     description = "Remove ads by unlocking the supporter status.",
     default = true
 ) {
-    compatibleWith(XAPKEXTRACTOR_COMPATIBILITY)
+    compatibleWith(COMPATIBILITY_XAPKEXTRACTOR)
 
     execute {
         SupporterOnCreateFingerprint.method.addInstructions(

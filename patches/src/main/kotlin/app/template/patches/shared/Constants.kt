@@ -14,7 +14,7 @@ object Constants {
         )
     )
 
-    val REVERSO_COMPATIBILITY = Compatibility(
+    val COMPATIBILITY_REVERSO = Compatibility(
         name = "Reverso Context",
         packageName = "com.softissimo.reverso.context",
         targets = listOf(
@@ -44,7 +44,7 @@ object Constants {
         )
     )
 
-    val XAPKEXTRACTOR_COMPATIBILITY = Compatibility(
+    val COMPATIBILITY_XAPKEXTRACTOR = Compatibility(
         name = "XAPK Extractor",
         packageName = "com.ytheekshana.apkextractor",
         targets = listOf(

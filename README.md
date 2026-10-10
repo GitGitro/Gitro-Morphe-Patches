@@ -1,16 +1,10 @@
-# 👋🧩 Morphe Patches template
-
-Template repository for Morphe Patches.
-
 ## ❓ About
 
-Patches for apps I like.
-
-<!-- TODO: Update this about section with a brief introduction/summary about this repo and what it offers. -->
+Patches for fun/to learn, nothing serious
 
 ### How to use these patches
 
-Click here to add these patches to Morphe: https://morphe.software/add-source?github=xyz-user/xyz-patches
+Click here to add these patches to Morphe: https://morphe.software/add-source?github=GitGitro/Gitro-Morphe-Patches
 
 ## 🩹 Patches list
 

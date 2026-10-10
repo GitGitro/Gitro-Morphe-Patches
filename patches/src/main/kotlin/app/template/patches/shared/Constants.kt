@@ -23,4 +23,14 @@ object Constants {
             )
         )
     )
+
+    val COMPATIBILITY_RIGHTGALLERY = Compatibility(
+        name = "RightGallery",
+        packageName = "dev.goodwy.gallery",
+        targets = listOf(
+            AppTarget(
+                version = "8.3.1"
+            )
+        )
+    )
 }

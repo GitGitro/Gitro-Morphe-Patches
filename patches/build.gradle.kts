@@ -1,7 +1,6 @@
 group = "app.template"
 
 patches {
-
     about {
         name = "Gitro's Morphe Patches"
         description = "Patches for fun/to learn, nothing serious"

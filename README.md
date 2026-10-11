@@ -3,8 +3,11 @@
 Patches for fun/to learn, nothing serious
 
 ### How to use these patches
-
-Click here to add these patches to Morphe: https://morphe.software/add-source?github=GitGitro/Gitro-Morphe-Patches
+<div align="center">
+    <a href="https://morphe.software/add-source?github=GitGitro/Gitro-Morphe-Patches" title="Add this source to Morphe">
+      <img alt="Add to Morphe" src="https://img.shields.io/badge/Morphe-Add%20this%20source-00A8FF?style=for-the-badge" height="38"/>
+    </a>
+</div>
 
 ## 🩹 Patches list
 

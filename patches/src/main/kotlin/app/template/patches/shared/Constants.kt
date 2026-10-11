@@ -73,4 +73,14 @@ object Constants {
             )
         )
     )
+
+    val COMPATIBILITY_FILETREESIZE = Compatibility(
+        name = "File Tree Size",
+        packageName = "com.devone.filetreesize",
+        targets = listOf(
+            AppTarget(
+                version = "4.4.1-NRS.V4",
+            )
+        )
+    )
 }

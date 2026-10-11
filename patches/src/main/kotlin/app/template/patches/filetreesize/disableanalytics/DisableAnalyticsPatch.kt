@@ -5,7 +5,7 @@ import app.morphe.patcher.patch.bytecodePatch
 import app.template.patches.shared.Constants.COMPATIBILITY_FILETREESIZE
 
 @Suppress("unused")
-val disableAdsAndAnalyticsPatch = bytecodePatch(
+val disableAnalyticsPatch = bytecodePatch(
     name = "Disable ads and analytics",
     description = "Stops Firebase Analytics event logging.",
     default = true

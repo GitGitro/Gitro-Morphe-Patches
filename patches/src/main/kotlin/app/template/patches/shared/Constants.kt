@@ -53,4 +53,14 @@ object Constants {
             )
         )
     )
+
+    val COMPATIBILITY_ZERCH = Compatibility(
+        name = "Zerch",
+        packageName = "com.zerch.widget",
+        targets = listOf(
+            AppTarget(
+                version = "2.3",
+            )
+        )
+    )
 }

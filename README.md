@@ -12,20 +12,69 @@ Patches for fun/to learn, nothing serious
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.0.0](https://github.com/GitGitro/Gitro-Morphe-Patches/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;6 patches total
+> **[v1.1.0-dev.1](https://github.com/GitGitro/Gitro-Morphe-Patches/releases/tag/v1.1.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;13 patches total
 <details open>
 <summary>📦 AI Detector&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
 <br>
 
 **🎯 Supported versions:**
 
-| 21.0.0 |
+| 22.0.0 |
 | :---: |
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [Bypass license check](#bypass-license-check) | Bypasses the PairIP license check. |  |
 | [Unlocks pro](#unlocks-pro) | Unlocks pro and remove the ads. |  |
+
+</details>
+
+<details open>
+<summary>📦 File Tree Size&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 4.4.1-NRS.V4 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Bypass license check](#bypass-license-check) | Bypasses the PairIP license check. |  |
+| [Disable ads and analytics](#disable-ads-and-analytics) | Stops Firebase Analytics event logging. |  |
+| [Unlock pro](#unlock-pro) | Unlocks all pro features. |  |
+
+</details>
+
+<details open>
+<summary>📦 Usenet Panda&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 2.1.1 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Bypass license check](#bypass-license-check) | Bypasses the PairIP license. |  |
+| [Unlock premium](#unlock-premium) | Unlocks all premium features. |  |
+
+</details>
+
+<details open>
+<summary>📦 Zerch&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 2.3 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Bypass license check](#bypass-license-check) | Bypasses the PairIP license check. |  |
+| [Unlock pro](#unlock-pro) | Unlocks all pro features. |  |
 
 </details>
 

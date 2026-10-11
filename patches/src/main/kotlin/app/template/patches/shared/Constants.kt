@@ -63,4 +63,14 @@ object Constants {
             )
         )
     )
+
+    val COMPATIBILITY_USENETPANDA = Compatibility(
+        name = "Usenet Panda",
+        packageName = "at.mann.usenetpanda",
+        targets = listOf(
+            AppTarget(
+                version = "2.1.1",
+            )
+        )
+    )
 }

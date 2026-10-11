@@ -9,7 +9,7 @@ object Constants {
         packageName = "com.aidetector.app",
         targets = listOf(
             AppTarget(
-                version = "21.0.0"
+                version = "22.0.0"
             )
         )
     )
@@ -50,6 +50,36 @@ object Constants {
         targets = listOf(
             AppTarget(
                 version = "1.8.9",
+            )
+        )
+    )
+
+    val COMPATIBILITY_ZERCH = Compatibility(
+        name = "Zerch",
+        packageName = "com.zerch.widget",
+        targets = listOf(
+            AppTarget(
+                version = "2.3",
+            )
+        )
+    )
+
+    val COMPATIBILITY_USENETPANDA = Compatibility(
+        name = "Usenet Panda",
+        packageName = "at.mann.usenetpanda",
+        targets = listOf(
+            AppTarget(
+                version = "2.1.1",
+            )
+        )
+    )
+
+    val COMPATIBILITY_FILETREESIZE = Compatibility(
+        name = "File Tree Size",
+        packageName = "com.devone.filetreesize",
+        targets = listOf(
+            AppTarget(
+                version = "4.4.1-NRS.V4",
             )
         )
     )

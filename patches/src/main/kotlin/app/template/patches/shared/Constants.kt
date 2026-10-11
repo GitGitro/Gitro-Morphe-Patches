@@ -9,7 +9,7 @@ object Constants {
         packageName = "com.aidetector.app",
         targets = listOf(
             AppTarget(
-                version = "21.0.0"
+                version = "22.0.0"
             )
         )
     )

@@ -79,7 +79,7 @@ object Constants {
         packageName = "com.devone.filetreesize",
         targets = listOf(
             AppTarget(
-                version = "4.4.1-NRS.V4",
+                version = "4.5.1-NRS.V5",
             )
         )
     )

@@ -59,9 +59,10 @@ object Constants {
     val COMPATIBILITY_ZERCH = Compatibility(
         name = "Zerch",
         packageName = "com.zerch.widget",
+        apkFileType = ApkFileType.XAPK,
         targets = listOf(
             AppTarget(
-                version = "2.3",
+                version = "2.3.3",
             )
         )
     )

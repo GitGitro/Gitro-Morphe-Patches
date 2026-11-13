@@ -1,5 +1,6 @@
 package app.template.patches.shared
 
+import app.morphe.patcher.patch.ApkFileType
 import app.morphe.patcher.patch.AppTarget
 import app.morphe.patcher.patch.Compatibility
 
@@ -37,6 +38,7 @@ object Constants {
     val COMPATIBILITY_RILLPHONE = Compatibility(
         name = "RillPhone",
         packageName = "dev.goodwy.rphone",
+        apkFileType = ApkFileType.XAPK,
         targets = listOf(
             AppTarget(
                 version = "0.7.3"
@@ -77,6 +79,7 @@ object Constants {
     val COMPATIBILITY_FILETREESIZE = Compatibility(
         name = "File Tree Size",
         packageName = "com.devone.filetreesize",
+        apkFileType = ApkFileType.XAPK,
         targets = listOf(
             AppTarget(
                 version = "4.5.1-NRS.V5",

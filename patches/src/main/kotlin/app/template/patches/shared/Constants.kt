@@ -19,7 +19,7 @@ object Constants {
         packageName = "com.softissimo.reverso.context",
         targets = listOf(
             AppTarget(
-                version = "16.5.0",
+                version = "17.2.0",
             )
         )
     )

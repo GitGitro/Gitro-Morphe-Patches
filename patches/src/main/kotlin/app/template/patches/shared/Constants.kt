@@ -39,7 +39,7 @@ object Constants {
         packageName = "dev.goodwy.rphone",
         targets = listOf(
             AppTarget(
-                version = "0.5.6"
+                version = "0.7.3"
             )
         )
     )

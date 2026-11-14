@@ -88,4 +88,15 @@ object Constants {
             )
         )
     )
+
+    val COMPATIBILITY_MONITEE = Compatibility(
+        name = "Monitee",
+        packageName = "com.krillsson.monitee",
+        apkFileType = ApkFileType.XAPK,
+        targets = listOf(
+            AppTarget(
+                version = "0.42.0",
+            )
+        )
+    )
 }

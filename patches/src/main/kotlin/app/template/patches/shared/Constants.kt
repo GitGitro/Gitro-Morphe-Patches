@@ -99,4 +99,15 @@ object Constants {
             )
         )
     )
+
+    val STICKER_MAKER_COMPATIBILITY = Compatibility(
+        name = "Sticker Maker",
+        packageName = "com.marsvard.stickermakerforwhatsapp",
+        apkFileType = ApkFileType.XAPK,
+        targets = listOf(
+            AppTarget(
+                version = "1.0.12-7",
+            )
+        )
+    )
 }
